@@ -1,1 +1,1 @@
-Es el primer archivo
+Es el primer archivo del proyecto.
